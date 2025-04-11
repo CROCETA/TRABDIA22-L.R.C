@@ -1,0 +1,29 @@
+
+
+.quadradobaixo {
+    background-color: blue;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .youtube, .instagram {
+    width: 123px;
+    height: 96px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .youtube img, .instagram img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* .texto {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+  } */
