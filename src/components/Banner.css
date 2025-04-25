@@ -1,7 +1,12 @@
 .foto {
-    width: 415px;
-    height: 350px;
-    display: flex;
+  width: 100%;
+  height: auto;
+  display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.foto img {
+    width: 415px;
+    height: 350px;
   }

@@ -5,7 +5,7 @@ import './ProductList.css'
 function ProductList() {
   return (
     <>
-       <div>
+       <div className="global">
         
         <div>
           
