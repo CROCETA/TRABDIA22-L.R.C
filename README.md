@@ -100,9 +100,33 @@ Ajustes visuais e revisão de código.
 
 
 Como Rodar o Projeto
+```
+git clone https://github.com/CROCETA/TRABDIA22-L.R.C.git/loja-react.git
+```
+Acesse a pasta do projeto:
+```
+cd loja-react
+```
+Instale as dependências:
+```
+npm install
+```
+Inicie o servidor de desenvolvimento para ver se esta tudo certo:
+```
+npm run dev
+```
 
-git clone https://github.com/seuusuario/loja-react.git
+Reflexão Final
+Desafios Enfrentados
+entender a estrutura do Vite.
 
+Separar tudo nos components.
 
+deixar o site responsivo e bonito.
 
+Aprendizados Obtidos
+
+Ter melhorado meu aprendizado na lógica de componentização com React.
+
+Prática com versionamento no Git, incluindo uso de commits progressivo.
 
